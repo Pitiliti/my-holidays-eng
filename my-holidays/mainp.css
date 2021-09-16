@@ -1,0 +1,170 @@
+body
+{
+    background-color:#F6B591A6;
+}
+#container
+{
+    width:1152px;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+#titleone
+{
+    background-image: url(https://www.popsci.com/uploads/2020/06/05/3NIEQB3SFVCMNHH6MHZ42FO6PA.jpg);
+    width: 1152px;
+    height: 360px;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-size: 100px;
+    padding-top: 50px;
+    
+
+}
+#q1
+{
+    margin-top: 70px;
+    
+}
+#text1
+{
+    float: left;
+    width: 752px;
+    background-color: #2D502B;
+    height: 175px;
+    text-align: center;
+    padding-top: 125px;
+    font-size: 25px;
+    color: #DDD8CD;
+    
+}
+#p1st
+{
+    float: left;
+   
+}
+#scouting
+{
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 240px;
+   
+}
+#content
+{
+    width: 1000px;
+    height: 620px;
+    background-color: #D4D4D4B8;
+}
+#line
+{
+  padding-top: 20px;
+  
+  width: 1152px;
+  height: 5px;
+  clear: both;
+  
+}
+#scoutingtitle
+{
+    
+ text-align: center;
+ padding: 20px;
+ font-size: 30px;
+ font-weight: 400;
+ color: #523AE1;
+ font-family: 'Azeret Mono', monospace;
+
+
+}
+#container2
+{
+   background-color:  #A8E8E3;
+   width:1152px;
+   margin-right: auto;
+   margin-left: auto;
+   padding-bottom: 80px;
+   border:2px solid #00000047;
+   
+}
+#pirateimg
+{
+    padding-top: 20px;
+    margin-left: 241px;
+    
+}
+#container3
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1152px;
+    background-color: #f5e7b5;
+    padding-bottom: 70px;
+    border: 2px solid #C2C6F5;
+   
+   
+   
+}
+#line2
+{
+    padding-top: 30px;
+    width: 1152px;
+    height: 5px;
+}
+#egypttitle
+{
+    text-align: center;
+    padding:30px;
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 400;
+    font-size: 30px;
+    color: #FFAC7B;
+}
+#egyptimage
+{
+    margin-left: 126px;
+}
+#line3
+{
+    width: 1152px;
+    padding-top: 30px;
+    height: 5px;
+   
+}
+#container4
+{
+    width: 1152px;
+    margin-right: auto;
+    margin-left:auto;
+    background-color: #01134E;
+    padding-bottom: 70px;
+    border: 2px solid #16dc9b;
+    
+    
+}
+#poznantitle
+{
+    padding:30px;
+    text-align: center;
+    font-family: 'Azeret Mono', monospace;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFC04;
+    
+
+}
+#poznanimg
+{
+    margin-left: 106px;
+}
+#line4
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1152px;
+    height: 5px;
+    padding-top:30px;
+}

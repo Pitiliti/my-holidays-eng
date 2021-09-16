@@ -1,0 +1,193 @@
+body
+{
+    background-color:#A8E8E3 ;
+}
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #B2FBB1AB;
+}
+#titleone
+{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 64px;
+    text-align: center;
+    padding: 20px;
+    color: #0419AC;
+
+    
+
+}
+.line
+{
+    
+    padding-top: 40px;
+    background-color:#A8E8E3 ;
+}
+#hard-beggining
+{
+    text-align: center;
+    font-size: 30px;
+    color: #021AE2;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+   padding:30px
+
+}
+#begginingjpg
+{
+    margin-left:100px ;
+}
+
+    
+
+#container2
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-color: #B2FBB1AB;
+    padding-bottom: 60px;
+    border: 2px solid #D491FFCC;
+}
+#container3
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-color: teal;
+    padding-bottom: 70px;
+    border: 2px solid #FFF775D9;
+}
+#arrivedtitle
+{
+    text-align: center;
+    padding:30px;
+    font-size: 30px;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+    color: #FFFC04;
+}
+#arrivedimg
+{
+    margin-left: 89px;
+}
+#container4
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-color: #ceb396;
+    border: 2px solid #9A9ED9;
+}
+#worktitle
+{
+    text-align: center;
+    padding:30px;
+    font-size: 30px;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+    color: #484D84;
+}
+#workimg
+{
+    margin-left: 116px;
+    padding-bottom: 70px;
+}
+#container5
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-color: royalblue;
+    padding-bottom: 70px;
+    border: 2px solid #C7A7FF;
+}
+#gettingtoknowourcitytitle
+{
+    text-align: center;
+    padding:30px;
+    font-size: 30px;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+    color: #FFFC04;
+}
+#jaroslawiecjpg
+{
+    margin-left: 180px;
+}
+#container6
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-bottom: 70px;
+    background-color: #5D9CE4;
+    border: 2px solid #E4E35D;
+}
+#piratetitle
+{
+    text-align: center;
+    padding:30px;
+    font-size: 30px;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+    color: #E4E35D;
+}
+#piratejpg
+{
+    margin-left: 75px;
+}
+#container7
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-bottom: 70px;
+    background-color: #B979E4D9;
+    border: 2px solid #6C26A2;
+}
+#partytitle
+{
+    text-align: center;
+    padding:30px;
+    font-size: 30px;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+    color: #2B0351;
+}
+#partyjpg
+{
+    margin-left: 68px;
+}
+#hot
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+    background-color: #A5FFC3C4;
+    color: #5E40BC;
+    text-align: center;
+    padding:30px;
+    font-size: 30px;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+    border: 2px solid #C580E6 ;
+}
+a
+{
+    color:#5E40BC;
+}
+a:hover
+{
+    color: #E27C00  ;
+}
+#hot:hover
+{
+    background-color: #E4D1A9;
+    background: -webkit-linear-gradient(top, yellow 20%, #d4b675 80%);
+    color: #E27C00;
+    border: 2px solid #E27C00 ;
+}

@@ -1,0 +1,102 @@
+body
+{
+    background-color:#f5e7b5 ;
+}
+#container1
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    background-color: #D1944E;
+    font-size: 50px;
+    padding: 25px;
+    word-spacing: 2px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color: #EEE0CB;
+}
+.line
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-top: 30px;
+    height: 5px;
+}
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    
+ 
+}
+.title
+{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+}
+#airportjpg
+{
+    margin-left: 100px;
+    padding-bottom: 70px;
+}
+
+
+
+#hoteljpg
+{
+    margin-left:100px ;
+}
+#seapicture
+{
+    margin-left: 225px;
+}
+#dolphinjpg
+{
+    margin-left:100px;
+}
+#cairojpg
+{
+    margin-left: 172px;
+}
+#quadimg
+{
+    margin-left: 100px;
+}
+#ending
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+    background-color: #FFC383;
+    color: #E27C00;
+    text-align: center;
+    padding:30px;
+    font-size: 30px;
+    font-family: 'Glory', sans-serif;
+    font-weight: 500;
+    border: 2px solid #E27C00 ;
+   
+}
+#ending:hover
+{
+    background-color: darkblue;
+    background: -webkit-linear-gradient(top, rgb(184, 98, 184) 20%, darkblue 80%);
+    color: #FFFC04;
+    border: 2px solid #FFFC04;
+  
+}
+a[href="index.html"]
+{
+    text-decoration: none;
+    
+}
+a[href="index.html"]:hover
+{
+    text-decoration: underline;
+}

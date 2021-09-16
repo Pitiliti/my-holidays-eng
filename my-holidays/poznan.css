@@ -1,0 +1,72 @@
+body
+{
+    background-color: #01134E;
+}
+#poznan
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    background-color: skyblue;
+    text-align: center;
+    font-size: 50px;
+    padding:25px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+}
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+.line
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-top: 30px;
+    height: 5px;
+}
+.title
+{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+#poznanjpg
+{
+    margin-left: 77px;
+    padding-bottom: 60px;
+}
+#shoppingjpg, #bbqjpg, #mudjpg, #berlinjpg
+{
+    margin-left: 100px;
+}
+#ending
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Roboto Mono', monospace;
+    padding: 25px;
+    text-align: center;
+    background-color: darkblue;
+    color: #FFFC04;
+    border: 2px solid #FFFC04;
+}
+#ending:hover
+{
+    background-color: lightgrey;
+    background: -moz-linear-gradient(top, grey 20%, #8780df 80% );
+    background: -webkit-linear-gradient(top, grey 20%, #8780df 80%); 
+    color: indigo;
+    border: 2px solid indigo;
+
+    
+    
+}
+
+
